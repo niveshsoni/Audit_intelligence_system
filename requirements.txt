@@ -1,0 +1,17 @@
+streamlit
+
+pandas
+
+matplotlib
+
+torch
+
+transformers
+
+datasets
+
+peft
+
+huggingface_hub
+
+bitsandbytes (optional, for 4-bit quantization)
