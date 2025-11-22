@@ -109,7 +109,8 @@ streamlit run app.py
 
 5. **View Logs**
    All operations are saved in an SQLite database.
-
+6. 5. **Output storage**
+   Persistent File Storage for All Outputs.
 ---
 
 ## File Structure
@@ -139,6 +140,47 @@ models/
 
 3. **Final Decision**
    Chooses the best label between rule-based and model output.
+
+
+Sure — here’s **only the directory section**, exactly as you asked:
+
+---
+
+## Where Outputs Are Saved (Important)
+
+When you run the full system, the app automatically creates a structured directory where all outputs are stored.
+This helps you keep track of everything — labeled files, generated Q&A, fine-tuned models, logs, etc.
+
+### 📁 Output Directory Structure
+
+```
+project-root/
+│
+├── app.py
+├── audit_logs.db                  # SQLite DB storing logs
+│
+├── datasets/
+│   ├── labeled_data/              # Final outputs after running analysis
+│   │   ├── labeled_output.csv     # Categorized bank statement
+│   │   └── <more labeled files>   # (Timestamped if processed multiple times)
+│   │
+│   ├── qa_data/                   # Q&A datasets generated from labeled data
+│   │   ├── qa_output.json
+│   │   └── <timestamped_qa.json>
+│
+├── models/
+│   ├── fine_tuned/
+│   │   ├── merged/                # Final merged LoRA + base model
+│   │   │   ├── config.json
+│   │   │   ├── pytorch_model.bin
+│   │   │   └── tokenizer.json
+│   │   └── adapter/               # LoRA adapter weights (before merge)
+│
+└── logs/
+    └── streamlit.log (optional)
+
+
+```
 
 ---
 
