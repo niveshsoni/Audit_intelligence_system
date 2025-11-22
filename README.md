@@ -165,4 +165,3 @@ MIT License
 
 ---
 
-If you want, I can also create a **badge-style header**, or a **clean project diagram** for the README. Want that?
