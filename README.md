@@ -1,7 +1,4 @@
-Got you — here’s the README updated with the **model info (Gemma 2B IT)** included cleanly and naturally.
-I kept the vibe clear and professional while still matching your project context.
-
----
+]
 
 # 💼 AI-Powered Bank Statement Auditor (Gemma Hybrid)
 
@@ -56,7 +53,7 @@ You can replace it with a larger Gemma model later if needed.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+[git clone <repository-url>](https://github.com/niveshsoni/Audit_intelligence_system.git)
 cd <repository-folder>
 ```
 
