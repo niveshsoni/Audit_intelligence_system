@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How would you classify 'Salary Credit' in terms of financial flow?",
+    "answer": "'Salary Credit' is classified as an income transaction."
+  },
+  {
+    "question": "What type of expense is an 'Amazon Purchase'?",
+    "answer": "An 'Amazon Purchase' is typically categorized as a shopping or retail expense."
+  },
+  {
+    "question": "Identify a transaction that represents a withdrawal of physical cash.",
+    "answer": "'ATM Withdrawal' represents a withdrawal of physical cash."
+  },
+  {
+    "question": "Which transaction indicates earnings from holding money in an account?",
+    "answer": "'Interest Credit' indicates earnings from holding money in an account."
+  },
+  {
+    "question": "In banking terms, what does 'Credit' generally signify for an account balance?",
+    "answer": "'Credit' generally signifies an increase in the account balance."
+  },
+  {
+    "question": "What is the financial term for money being taken out of an account, as seen in 'ATM Withdrawal'?",
+    "answer": "The financial term for money being taken out of an account is a debit or withdrawal."
+  },
+  {
+    "question": "List all transactions that represent an inflow of money into the account.",
+    "answer": "'Salary Credit' and 'Interest Credit' represent inflows of money."
+  },
+  {
+    "question": "List all transactions that represent an outflow of money from the account.",
+    "answer": "'ATM Withdrawal' and 'Amazon Purchase' represent outflows of money."
+  },
+  {
+    "question": "What is the primary purpose of an 'ATM Withdrawal'?",
+    "answer": "The primary purpose of an 'ATM Withdrawal' is to convert digital funds into physical cash for immediate use."
+  },
+  {
+    "question": "Group these transactions into broad categories of 'Income' and 'Expense'.",
+    "answer": "Income: Salary Credit, Interest Credit. Expense: ATM Withdrawal, Amazon Purchase."
+  }
+]

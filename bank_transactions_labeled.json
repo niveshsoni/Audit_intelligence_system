@@ -1,0 +1,34 @@
+[
+  {
+    "DATE":"2025-01-10",
+    "DESCRIPTION":"ATM Withdrawal",
+    "DEBIT":500.0,
+    "CREDIT":null,
+    "BALANCE":4500,
+    "CATEGORY":"Cash Withdrawal"
+  },
+  {
+    "DATE":"2025-01-12",
+    "DESCRIPTION":"Salary Credit",
+    "DEBIT":null,
+    "CREDIT":2000.0,
+    "BALANCE":6500,
+    "CATEGORY":"Income"
+  },
+  {
+    "DATE":"2025-01-15",
+    "DESCRIPTION":"Amazon Purchase",
+    "DEBIT":300.0,
+    "CREDIT":null,
+    "BALANCE":6200,
+    "CATEGORY":"Shopping"
+  },
+  {
+    "DATE":"2025-01-18",
+    "DESCRIPTION":"Interest Credit",
+    "DEBIT":null,
+    "CREDIT":50.0,
+    "BALANCE":6250,
+    "CATEGORY":"Interest"
+  }
+]

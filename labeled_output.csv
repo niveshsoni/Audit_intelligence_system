@@ -1,0 +1,5 @@
+DATE,DESCRIPTION,DEBIT,CREDIT,BALANCE,CATEGORY
+2025-01-10,ATM Withdrawal,500.0,,4500,Cash Withdrawal
+2025-01-12,Salary Credit,,2000.0,6500,Income
+2025-01-15,Amazon Purchase,300.0,,6200,Shopping
+2025-01-18,Interest Credit,,50.0,6250,Interest
